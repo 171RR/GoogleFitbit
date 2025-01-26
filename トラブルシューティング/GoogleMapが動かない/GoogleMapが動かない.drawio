@@ -214,7 +214,7 @@
           <mxGeometry x="373.5" y="65" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4TtYJMtrnYmxSKFe8jwu-60" value="&amp;nbsp;　fitbitアプリ&lt;div&gt;　&amp;gt; fitbitデバイス&lt;/div&gt;&lt;div&gt;　&amp;gt; 通知&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;align=left;position2=0.1;size=35;position=0.2;container=0;base=20;" vertex="1" parent="o26Y0LctXVvkNciSHUhe-0">
-          <mxGeometry x="380" y="221.5" width="100" height="80" as="geometry" />
+          <mxGeometry x="390" y="217.5" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4TtYJMtrnYmxSKFe8jwu-61" value="ナビゲーション開始しないと&lt;div&gt;通知が発出されない&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;size=28;position=0.25;position2=0;direction=south;container=0;" vertex="1" parent="o26Y0LctXVvkNciSHUhe-0">
           <mxGeometry x="212.5" y="582" width="200" height="40" as="geometry" />
@@ -281,6 +281,9 @@
         </mxCell>
         <mxCell id="4TtYJMtrnYmxSKFe8jwu-80" value="fitbitデバイスを&lt;div&gt;GoogleMapへ接続&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;size=28;position=0.25;position2=0.1;direction=south;container=0;" vertex="1" parent="o26Y0LctXVvkNciSHUhe-0">
           <mxGeometry x="191" y="665" width="166" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7f1WKeuZPM8eL9uBoL5B-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="o26Y0LctXVvkNciSHUhe-0" source="4TtYJMtrnYmxSKFe8jwu-47" target="4TtYJMtrnYmxSKFe8jwu-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
